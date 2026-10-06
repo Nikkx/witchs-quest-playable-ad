@@ -9,7 +9,7 @@ A short playable ad demo: a young witch takes on the Raging Yeti on a snowy moun
 ## About
  
 - Built with Pixi.js v8.6.6 as a single HTML file of about 600 KB (Pixi itself loads from a CDN and isn't included in that size).
-- Made in less than 2 days, including all the art.
+- Made in under two days, including all the art.
 - Portrait layout for mobile, about 25 seconds long, with a quick tutorial and an end card.
 - The yeti is animated from separate drawn parts (body, arms, faces) instead of frame-by-frame sprites.
 - Music and sound effects are generated in code with the Web Audio API, with no audio files.
