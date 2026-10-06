@@ -13,6 +13,7 @@ A short playable ad demo: a young witch takes on the Raging Yeti on a snowy moun
 - Portrait layout for mobile, about 25 seconds long, with a quick tutorial and an end card.
 - The yeti is animated from separate drawn parts (body, arms, faces) instead of frame-by-frame sprites.
 - Music and sound effects are generated in code with the Web Audio API, with no audio files.
+- Art details: [ArtStation Portfolio](https://www.artstation.com/artwork/EYzGdN)
   
 ## Credits
  
